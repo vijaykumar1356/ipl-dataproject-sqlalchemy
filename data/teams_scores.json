@@ -1,0 +1,32 @@
+{
+  "teams": [
+    "Mumbai Indians",
+    "Royal Challengers Bangalore",
+    "Kings XI Punjab",
+    "Kolkata Knight Riders",
+    "Delhi Daredevils",
+    "Chennai Super Kings",
+    "Rajasthan Royals",
+    "Sunrisers Hyderabad",
+    "Deccan Chargers",
+    "Pune Warriors",
+    "Gujarat Lions",
+    "Rising Pune Supergiants",
+    "Kochi Tuskers Kerala"
+  ],
+  "total_runs": [
+    24521,
+    23436,
+    23068,
+    21965,
+    21953,
+    20899,
+    17703,
+    11652,
+    11463,
+    6358,
+    4862,
+    4533,
+    1901
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "batsmen": [
+    "V Kohli",
+    "CH Gayle",
+    "AB de Villiers",
+    "JH Kallis",
+    "R Dravid",
+    "TM Dilshan",
+    "RV Uthappa",
+    "LRPL Taylor",
+    "SS Tiwary",
+    "MA Agarwal",
+    "MK Pandey",
+    "KL Rahul",
+    "MV Boucher",
+    "Yuvraj Singh",
+    "Mandeep Singh"
+  ],
+  "total_score": [
+    4423,
+    3175,
+    2815,
+    1132,
+    898,
+    587,
+    549,
+    517,
+    487,
+    433,
+    417,
+    417,
+    388,
+    376,
+    345
+  ]
+}
